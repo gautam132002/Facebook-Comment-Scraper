@@ -1,0 +1,149 @@
+1687346080852	geckodriver	INFO	Listening on 127.0.0.1:45825
+1687346081780	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "56673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVTEBdP"
+*** You are running in headless mode.
+1687346082500	Marionette	INFO	Marionette enabled
+1687346082512	Marionette	INFO	Listening on port 46455
+WebDriver BiDi listening on ws://localhost:56673
+Read port: 46455
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 691: Error: File resource://builtin-themes/resource://builtin-themes/dark/ does not contain a valid manifest
+1687346082703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1687346082711	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38485","sslProxy":"127.0.0.1:38485"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVTEBdP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56673/devtools/browser/77e3d80f-a2d9-4c77-8336-56bc40cf5de8
+1687346136570	Marionette	INFO	Stopped listening on port 46455
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 906: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 501: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileVTEBdP/protections.sqlite
+1687346234133	geckodriver	INFO	Listening on 127.0.0.1:58857
+1687346234765	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "50659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile755pJ2"
+*** You are running in headless mode.
+1687346235322	Marionette	INFO	Marionette enabled
+1687346235329	Marionette	INFO	Listening on port 42787
+WebDriver BiDi listening on ws://localhost:50659
+Read port: 42787
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 691: Error: File resource://builtin-themes/resource://builtin-themes/dark/ does not contain a valid manifest
+1687346235490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1687346235498	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40829","sslProxy":"127.0.0.1:40829"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile755pJ2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50659/devtools/browser/94c01427-1783-4676-9032-1a31817192c6
+1687346279607	Marionette	INFO	Stopped listening on port 42787
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 501: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile755pJ2/protections.sqlite
+1687346899519	geckodriver	INFO	Listening on 127.0.0.1:42275
+1687346900103	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "59319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBPVqst"
+*** You are running in headless mode.
+1687346900628	Marionette	INFO	Marionette enabled
+1687346900635	Marionette	INFO	Listening on port 36011
+WebDriver BiDi listening on ws://localhost:59319
+Read port: 36011
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 691: Error: File resource://builtin-themes/resource://builtin-themes/dark/ does not contain a valid manifest
+1687346900799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1687346900807	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34843","sslProxy":"127.0.0.1:34843"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBPVqst/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59319/devtools/browser/5456f59d-b54e-4d2c-a7b0-e263c57a39a0
+1687347232110	Marionette	INFO	Stopped listening on port 36011
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 501: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileBPVqst/protections.sqlite
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+1687347489577	geckodriver	INFO	Listening on 127.0.0.1:32871
+1687347490140	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "59701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletsDd6w"
+*** You are running in headless mode.
+1687347490706	Marionette	INFO	Marionette enabled
+1687347490712	Marionette	INFO	Listening on port 34393
+WebDriver BiDi listening on ws://localhost:59701
+Read port: 34393
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 691: Error: File resource://builtin-themes/resource://builtin-themes/dark/ does not contain a valid manifest
+1687347490875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1687347490883	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40549","sslProxy":"127.0.0.1:40549"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletsDd6w/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59701/devtools/browser/443db7cb-27c8-4cd4-8690-7a3b0f2898a1
+1687347847321	Marionette	INFO	Stopped listening on port 34393
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 465: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofiletsDd6w/protections.sqlite
+1687356171034	geckodriver	INFO	Listening on 127.0.0.1:39093
+1687356171935	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "44489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaNYPed"
+*** You are running in headless mode.
+1687356172645	Marionette	INFO	Marionette enabled
+1687356172652	Marionette	INFO	Listening on port 41269
+WebDriver BiDi listening on ws://localhost:44489
+Read port: 41269
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 691: Error: File resource://builtin-themes/resource://builtin-themes/dark/ does not contain a valid manifest
+1687356172840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1687356172847	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45681","sslProxy":"127.0.0.1:45681"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaNYPed/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44489/devtools/browser/b91e9f51-7f0e-4e9b-96e1-21f8cd426187
+1687356783146	Marionette	INFO	Stopped listening on port 41269
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iPwa4/yH/l/en_GB/qqOgt0aiODk.js?_nc_x=Ij3Wp8lg5Kz, line 501: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileaNYPed/protections.sqlite
